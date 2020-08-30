@@ -1,6 +1,6 @@
 # Instance variables:
-head: top of the stack
-size: number of elements currently in the stack
+head: top of the stack \n
+size: number of elements currently in the stack \n
 limit: a maximum number of elements allowed, chosen by the user in construction
 
 # StackSet
